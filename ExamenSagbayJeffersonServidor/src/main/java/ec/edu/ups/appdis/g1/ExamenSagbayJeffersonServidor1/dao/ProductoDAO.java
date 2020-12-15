@@ -2,6 +2,7 @@ package ec.edu.ups.appdis.g1.ExamenSagbayJeffersonServidor1.dao;
 
 import java.util.List;
 
+import javax.ejb.Stateless;
 import javax.inject.Inject;
 import javax.persistence.EntityManager;
 import javax.persistence.Query;
