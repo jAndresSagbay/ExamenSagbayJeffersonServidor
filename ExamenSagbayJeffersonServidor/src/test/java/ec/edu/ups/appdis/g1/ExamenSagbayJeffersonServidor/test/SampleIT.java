@@ -1,4 +1,4 @@
-package ec.edu.ups.appdis.g1.ExamenSagbayJeffersonServidor1.test;
+package ec.edu.ups.appdis.g1.ExamenSagbayJeffersonServidor.test;
 
 import java.io.File;
 
